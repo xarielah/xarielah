@@ -1,25 +1,52 @@
-<h1 align="center">Hi 👋, I'm Ariel</h1>
-<h3 align="center">A passionate fullstack developer from Israel</h3>
+<h3 align="center">
+Hi there, I'm <a href="https://n1fty.dev/" target="_blank" rel="noreferrer">Ariel</a> 👋
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xarielah&label=Profile%20views&color=0e75b6&style=flat" alt="xarielah" /> </p>
+<h2 align="center">
+I'm a FullStack Web Developer 💻!
+</h2> 
 
-- 👯 I’m looking to collaborate on **open-sources in order to maximize my skills and to collab with other programmers.**
+I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
 
-- 🤝 I’m looking for help with **both frontend & backend tasks, TypeScript, JS-ES6, Auth, SQL & noSQL etc...**
+### 🤝 Connect with me:
 
-- 👨‍💻 All of my projects are available at [xarielah.dev](https://www.xarielah.dev)
+<a href="https://www.linkedin.com/in/xarielah/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Ariel Aharon | LinkedIn" width="21px"/></a>
+</br>
+- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
-- 📫 Reach my email address @ **arielahr45@gmail.com**
+## 🔭 I'm currently working on
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/@xarielah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@xarielah" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/xarielah/" target="blank">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-  
-</p>
+- Habits tracking projects
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xarielah&show_icons=true&locale=en&layout=compact" alt="xarielah" /></p>
+## 🌱 I'm currently learning and perfecting
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xarielah&show_icons=true&locale=en" alt="xarielah" /></p>
+- Anuglar 
+
+## 💼 Technical Skills
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%23316192.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+</br>
+
+![TailwindCSS](https://img.shields.io/badge/tailwind-%23563D7C.svg?style=for-the-badge&logo=tailwind&logoColor=white)
+![SCSS](https://img.shields.io/badge/scss-%231572B6.svg?style=for-the-badge&logo=scss3&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![ShadCN](https://img.shields.io/badge/shadcn-%230081CB.svg?style=for-the-badge&logo=shadcn&logoColor=white)
+
+</br>
+
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+## 📈 GitHub Stats 
+
+[![Ariel's github stats](https://github-readme-stats.vercel.app/api?username=xarielah)](https://github.com/xarielah)
+
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=xarielah.xarielah)](https://www.n1fty.dev/)
