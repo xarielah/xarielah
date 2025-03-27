@@ -33,8 +33,8 @@ I love the entire process of developing creative websites. I love the challenge 
 
 </br>
 
-![SCSS](https://img.shields.io/badge/tailwind-%23563D7C.svg?style=for-the-badge&logo=sass&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/scss-%231572B6.svg?style=for-the-badge&logo=tailwindcss3&logoColor=white)
+![SCSS](https://img.shields.io/badge/scss-%23563D7C.svg?style=for-the-badge&logo=sass&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%231572B6.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![ShadCN](https://img.shields.io/badge/shadcn-%23121011.svg?style=for-the-badge&logo=shadcn&logoColor=white)
 
 </br>
