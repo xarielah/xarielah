@@ -20,7 +20,7 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ## 🌱 I'm currently learning and perfecting
 
-- Anuglar 
+- Angular 
 
 ## 💼 Technical Skills
 
