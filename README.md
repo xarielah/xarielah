@@ -16,7 +16,7 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ## 🔭 I'm currently working on
 
-- Habits tracking projects
+- Habits-Tracking Platform
 
 ## 🌱 I'm currently learning and perfecting
 
