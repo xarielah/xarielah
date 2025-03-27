@@ -47,5 +47,3 @@ I love the entire process of developing creative websites. I love the challenge 
 ## 📈 GitHub Stats 
 
 [![Ariel's github stats](https://github-readme-stats.vercel.app/api?username=xarielah)](https://github.com/xarielah)
-
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=xarielah.xarielah)](https://www.n1fty.dev/)
