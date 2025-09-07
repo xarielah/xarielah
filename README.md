@@ -14,10 +14,6 @@ I love the entire process of developing creative websites. I love the challenge 
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
-## 🔭 I'm currently working on
-
-- Habits-Tracking Platform
-
 ## 💼 Technical Skills
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
