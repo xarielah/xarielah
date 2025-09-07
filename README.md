@@ -18,10 +18,6 @@ I love the entire process of developing creative websites. I love the challenge 
 
 - Habits-Tracking Platform
 
-## 🌱 I'm currently learning and perfecting
-
-- Angular 
-
 ## 💼 Technical Skills
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
